@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Carousel/SignInViewController.swift"
+            timestampString = "433235414.503503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "SignInViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.alertViewReq.getter : ObjectiveC.UIAlertView"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/dbellona/Documents/iOS_for_designers/week_2/assignment/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "433150657.029927"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.alertViewReq.setter : ObjectiveC.UIAlertView"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/dbellona/Documents/iOS_for_designers/week_2/assignment/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "433150657.030132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/dbellona/Documents/iOS_for_designers/week_2/assignment/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "433150657.030266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "519">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)() -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/dbellona/Documents/iOS_for_designers/week_2/assignment/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "433150657.030395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/dbellona/Documents/iOS_for_designers/week_2/assignment/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "433150657.03052"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "465">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
